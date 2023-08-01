@@ -2,12 +2,46 @@
     font-size: 100%;
     font-weight: normal;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
-    font-size: 44px;
+    font-size: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
-    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
 }
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    
+}
+td,th {
+    border: 1px solid #090909;
+    text-align: left;
+    padding: 8px;
+    font-size: 19px;
+}
+th{
+    font-weight: bold;
+}
+ul li{
+    font-size: 19px;
+}
+ol li{
+    font-size: 19px;
+}
+
+
+
